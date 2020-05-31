@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/app-sumo/precache-manifest.44b106285c697471d77348a640f9373e.js"
+  "/app-sumo/precache-manifest.13a92b2414d023e05df33b39e0045d86.js"
 );
 
 self.addEventListener('message', (event) => {

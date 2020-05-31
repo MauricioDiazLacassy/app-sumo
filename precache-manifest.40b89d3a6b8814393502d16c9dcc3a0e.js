@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "99faec2d00cbb3fccacb41524a5f58bc",
+    "revision": "ae974d52de03a28190b28921fd67cfd0",
     "url": "/app-sumo/index.html"
   },
   {
-    "revision": "71f3340b8c475a8235e5",
+    "revision": "e6f4ade9bb8969977b12",
     "url": "/app-sumo/static/css/main.a97a0019.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/app-sumo/static/js/2.77f5942a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "71f3340b8c475a8235e5",
-    "url": "/app-sumo/static/js/main.7744af6a.chunk.js"
+    "revision": "e6f4ade9bb8969977b12",
+    "url": "/app-sumo/static/js/main.72771e03.chunk.js"
   },
   {
     "revision": "4c995e0d24db54a79e94",

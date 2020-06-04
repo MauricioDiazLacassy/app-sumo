@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/app-sumo/static/css/main.e5e90536.chunk.css",
-    "main.js": "/app-sumo/static/js/main.8f6804fb.chunk.js",
-    "main.js.map": "/app-sumo/static/js/main.8f6804fb.chunk.js.map",
+    "main.css": "/app-sumo/static/css/main.cf463582.chunk.css",
+    "main.js": "/app-sumo/static/js/main.346cb95f.chunk.js",
+    "main.js.map": "/app-sumo/static/js/main.346cb95f.chunk.js.map",
     "runtime-main.js": "/app-sumo/static/js/runtime-main.782cae06.js",
     "runtime-main.js.map": "/app-sumo/static/js/runtime-main.782cae06.js.map",
     "static/js/2.dca0a662.chunk.js": "/app-sumo/static/js/2.dca0a662.chunk.js",
     "static/js/2.dca0a662.chunk.js.map": "/app-sumo/static/js/2.dca0a662.chunk.js.map",
     "index.html": "/app-sumo/index.html",
-    "precache-manifest.3d3d26104854bf5d0b22260209a961b3.js": "/app-sumo/precache-manifest.3d3d26104854bf5d0b22260209a961b3.js",
+    "precache-manifest.591b57cbc190cb780e1980c3cb5cb647.js": "/app-sumo/precache-manifest.591b57cbc190cb780e1980c3cb5cb647.js",
     "service-worker.js": "/app-sumo/service-worker.js",
-    "static/css/main.e5e90536.chunk.css.map": "/app-sumo/static/css/main.e5e90536.chunk.css.map",
+    "static/css/main.cf463582.chunk.css.map": "/app-sumo/static/css/main.cf463582.chunk.css.map",
     "static/js/2.dca0a662.chunk.js.LICENSE.txt": "/app-sumo/static/js/2.dca0a662.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.782cae06.js",
     "static/js/2.dca0a662.chunk.js",
-    "static/css/main.e5e90536.chunk.css",
-    "static/js/main.8f6804fb.chunk.js"
+    "static/css/main.cf463582.chunk.css",
+    "static/js/main.346cb95f.chunk.js"
   ]
 }

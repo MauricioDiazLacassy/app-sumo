@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/app-sumo/static/css/main.8e2ceb2d.chunk.css",
+    "main.css": "/app-sumo/static/css/main.4cfc5735.chunk.css",
     "main.js": "/app-sumo/static/js/main.6b6d49aa.chunk.js",
     "main.js.map": "/app-sumo/static/js/main.6b6d49aa.chunk.js.map",
     "runtime-main.js": "/app-sumo/static/js/runtime-main.782cae06.js",
@@ -8,15 +8,15 @@
     "static/js/2.dca0a662.chunk.js": "/app-sumo/static/js/2.dca0a662.chunk.js",
     "static/js/2.dca0a662.chunk.js.map": "/app-sumo/static/js/2.dca0a662.chunk.js.map",
     "index.html": "/app-sumo/index.html",
-    "precache-manifest.521a24fdf784e3b178980d3a796dc400.js": "/app-sumo/precache-manifest.521a24fdf784e3b178980d3a796dc400.js",
+    "precache-manifest.2c3f639d7bf4b0c47cd924043d48cc96.js": "/app-sumo/precache-manifest.2c3f639d7bf4b0c47cd924043d48cc96.js",
     "service-worker.js": "/app-sumo/service-worker.js",
-    "static/css/main.8e2ceb2d.chunk.css.map": "/app-sumo/static/css/main.8e2ceb2d.chunk.css.map",
+    "static/css/main.4cfc5735.chunk.css.map": "/app-sumo/static/css/main.4cfc5735.chunk.css.map",
     "static/js/2.dca0a662.chunk.js.LICENSE.txt": "/app-sumo/static/js/2.dca0a662.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.782cae06.js",
     "static/js/2.dca0a662.chunk.js",
-    "static/css/main.8e2ceb2d.chunk.css",
+    "static/css/main.4cfc5735.chunk.css",
     "static/js/main.6b6d49aa.chunk.js"
   ]
 }
